@@ -1,0 +1,5 @@
+20230327	14:31:49	5c312517-eac4-4152-a2f5-7a66870167df	TypeError: authHeader?.startWith is not a function
+20230327	14:32:00	1d1b5b05-dbe4-4dc4-a10c-7b6478c05b88	TypeError: authHeader?.startWith is not a function
+20230327	14:32:01	6fc42202-23a7-4dcd-b1cf-6fa805147fa0	TypeError: authHeader?.startWith is not a function
+20230327	14:32:01	25a75a47-297c-480a-a878-91bd836ff978	TypeError: authHeader?.startWith is not a function
+20230327	14:32:02	14435ae0-e95a-4d5f-9b07-11091c4fb5c8	TypeError: authHeader?.startWith is not a function

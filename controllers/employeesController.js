@@ -52,7 +52,7 @@ const getEmployee = (req, res) => {
     }
     res.json(employee);
 }
-    
+
 module.exports = {
     getAllEmployees,
     createNewEmployee,
